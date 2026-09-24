@@ -1,1 +1,7 @@
 # AI Use Reflection
+
+I used ChatGPT throughout this assessment mainly for technical guidance, drafting support, editing and help with Git/GitHub. It helped me set up Git, create the repository structure, understand Markdown formatting and organise the policy proposal into the required sections. I also used it to suggest draft wording and help tighten sections to meet the word limit. I did not rely on AI-generated summaries as my main evidence source; key claims were checked against government and academic sources.
+
+One specific example of editing AI output was the policy costing. The initial draft presented broad cost ranges, but I changed the wording so the figures were clearly identified as analytical assumptions rather than official government estimates. I also revised the worker-training costing so the assumptions about participant numbers and administration were transparent.
+
+A limitation I noticed was that AI can produce plausible-sounding figures, citations or policy claims that still need verification. This meant I had to check sources, revise unsupported wording and avoid presenting assumptions as facts. Overall, AI was most useful for structure, technical support and editing rather than replacing research or judgement.
