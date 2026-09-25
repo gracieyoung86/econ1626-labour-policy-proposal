@@ -14,17 +14,17 @@ This package links evidence directly to intervention, improves targeting and lim
 
 ## 1. Problem Definition and Policy Context
 
-Artificial intelligence is reshaping the Australian labour market, but current evidence does not indicate widespread technological unemployment. DEWR reported in July 2026 that occupations with greater potential exposure to generative AI automation had experienced slower employment growth, although the evidence remains preliminary (DEWR 2026).
+Artificial intelligence is reshaping the Australian labour market, but current evidence does not indicate widespread technological unemployment. In July 2026 DEWR reported that occupations with greater potential exposure to generative AI automation had experienced slower employment growth, although the evidence remains preliminary (DEWR, 2026).
 
-The immediate policy challenge is therefore uneven adjustment rather than mass job loss. Jobs and Skills Australia finds that generative AI is currently more likely to augment work than replace it, with outcomes depending on adoption, task redesign and workers’ ability to reskill (JSA, 2025).
+The immediate policy challenge is therefore uneven adjustment rather than mass job loss. Jobs and Skills Australia finds that generative AI is currently more likely to augment work than replace it, with outcomes depending on adoption, task redesign and worker's ability to reskill (JSA, 2025).
 
-This creates a case for targeted labour-market policy. Workers in highly exposed occupations may face changing skill requirements or weaker employment growth, while overly broad intervention could reduce the productivity benefits of AI adoption. This proposal responds to that challenge within the Australian Government’s 2026 response to the Inquiry into the Digital Transformation of Workplaces (DEWR 2026b).
+This creates a case for targeted labour-market policy. Workers in highly exposed occupations may face changing skill requirements or weaker employment growth, while overly broad intervention could reduce the productivity benefits of AI adoption. This proposal responds to that challenge within the Australian Government’s 2026 response to the Inquiry into the Digital Transformation of Workplaces (DEWR, 2026).
 
 ## 2. Labour-Market Impacts of AI
 
 ### Employment and Tasks
 
-AI is more likely to change tasks within jobs than immediately eliminate entire occupations. Some activities may be automated while others are complemented by AI, so employment effects depend on whether displacement is offset by productivity gains, new tasks and demand for complementary skills (Acemoglu and Restrepo 2019, ILO 2025, JSA 2025).
+AI is more likely to change tasks within jobs than immediately eliminate entire occupations. Some activities may be automated while others are complemented by AI, so employment effects depend on whether displacement is offset by productivity gains, new tasks and demand for complementary skills (Acemoglu, D, Restrepo, P, 2019, ILO, 2025, JSA, 2025).
 
 ### Wages and Productivity
 
@@ -32,7 +32,7 @@ AI can raise productivity by helping workers complete tasks faster or at a highe
 
 ### Industry Structure
 
-AI might widen productivity differences between firms. Large firms may adopt faster because they have more capital, data and specialist staff while smaller firms face higher implementation costs. However, generative AI may also reduce some administrative and professional costs for SMEs.
+AI might enlarge the productivity differences between firms. Large firms may adopt faster because they have more capital, data and specialist staff while smaller firms face higher implementation costs. However, generative AI may also reduce some administrative and professional costs for SMEs.
 
 ### Distributional and Equity Effects
 
